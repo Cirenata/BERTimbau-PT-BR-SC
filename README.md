@@ -1,2 +1,2 @@
 # Subjectivity Classification for Brasilian Portuguese using BERTimbau (no pre-processing)
-To reproduce the experiment, enter the Google Colab notebook and run all cells, preferably using GPU environment.
+To reproduce the experiment, enter the CSPortuguês_sem_preproc.ipynb file and load the Google Colab notebook. Run all cells, preferably using GPU environment.
