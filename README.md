@@ -4,6 +4,7 @@ This notebook contains the Artificial Neural Network implemented for experimenta
 The utilized annotation for the three original datasets in portuguese was the ones made by Belisario et al (for book and electronic reviews) and Moraes et al (for Computer-BR, as made available in [OPINANDO project](https://sites.google.com/icmc.usp.br/opinando/)).
 
 For the three first datasets, see the OPINANDO project (https://sites.google.com/icmc.usp.br/opinando/)
+
 For Czechsubj and SetFit, the annotation was translated along with the corpora, following, then, the strategy adopted by their authors. For czechsubj, see
 @article{pib2022czechsubj,
     title={Czech Dataset for Cross-lingual Subjectivity Classification},
